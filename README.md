@@ -13,3 +13,9 @@
 - Contact form HTML 5 validation
 - Footer with copyright, terms of use, and privacy policy
 - Social media icons for sharing
+
+### Performance
+- webp images
+- minified css
+- purged css
+- cdn delivery

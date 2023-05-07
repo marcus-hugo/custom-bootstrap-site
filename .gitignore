@@ -4,5 +4,5 @@
 # Ignore node_modules folder
 node_modules
 
-# Ignore VS code setting
-.vscode
+# Ignore VS code settings
+.vscode/*

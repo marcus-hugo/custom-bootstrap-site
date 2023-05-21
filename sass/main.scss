@@ -29,7 +29,7 @@ $theme-colors: map-merge($custom-theme-colors, $theme-colors);
     }
 }
 
-//Generating All Shades of Yellow
+//Generating All Shades of Green
 @each $key, $value in $greens {
     .bg-#{$key} {
           background-color: $value !important;
